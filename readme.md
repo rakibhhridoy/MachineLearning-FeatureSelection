@@ -1,9 +1,5 @@
 # *Machine Learning Feature Selection*
-Methods:
-> selectKBest
-> f_classif
-> RFE
-
+>Step By step
 1. *importing libraries & functions*
 ```python
 import pandas as pd
